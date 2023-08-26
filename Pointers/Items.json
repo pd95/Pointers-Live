@@ -1,0 +1,46 @@
+[
+	{
+		"id": "Actions",
+		"items": ["Go", "Help", "I Want", "Look", "No", "Question", "Toilet", "Wait", "Yes"]
+	},
+	{
+		"id": "Activities",
+		"items": ["Ball", "Bath", "Bed", "Book", "Bubbles", "Bus", "Car", "Chair", "Coloring Pencils", "Controller", "Headphones", "Laptop", "Lego", "Notebook", "TV", "Teddy", "Train", "Trampoline", "Video Games"]
+	},
+    {
+        "id": "Animals",
+        "items": ["Bird", "Cat", "Dog", "Fish", "Hamster", "Horse", "Rabbit", "Tortoise"]
+    },
+	{
+		"id": "Body",
+		"items": ["Arm", "Chest", "Chin", "Ear", "Foot", "Groin", "Hair", "Hand", "Head", "Knee", "Leg", "Neck", "Tummy"]
+	},
+    {
+        "id": "Clothing",
+        "items": ["Dress", "Glasses", "Hat", "Hoodie", "Jacket", "Jeans", "Sandals", "Shirt", "Shoes", "Shorts", "Skirt", "Socks", "Sweater", "Swimsuit", "T-shirt"]
+    },
+	{
+		"id": "Colors",
+		"items": ["Black", "Blue", "Brown", "Gray", "Green", "Orange", "Pink", "Purple", "Rainbow", "Red", "White", "Yellow"]
+	},
+    {
+        "id": "Feelings",
+        "items": ["Angry", "Annoyed", "Cold", "Happy", "Hot", "Love", "Sad", "Sick", "Surprised", "Thumbs Down", "Thumbs Up", "Worried"]
+    },
+	{
+		"id": "Food",
+		"items": ["Apple", "Banana", "Bread", "Burger", "Cake", "Cereal", "Chicken", "Chocolate", "Coffee", "Cookie", "Crisps", "Fries", "Grapes", "Ham", "Hotdog", "Ice Cream", "Ice Lolly", "Juice", "Ketchup", "Kiwi", "Milk", "Noodles", "Pineapple", "Pizza", "Popcorn", "Sandwich", "Soda", "Strawberry", "Tea", "Toast", "Tomato", "Water", "Yoghurt"]
+	},
+	{
+		"id": "Numbers",
+		"items": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+	},
+	{
+		"id": "Places",
+		"items": ["Bedroom", "Home", "Kitchen", "Movie Theater", "Park", "Playground", "Pool", "School", "Shop", "Shower", "Zoo"]
+	},
+	{
+		"id": "Shapes",
+		"items": ["Arch", "Circle", "Ellipse", "Rectangle", "Square", "Star", "Triangle"]
+	}
+]
