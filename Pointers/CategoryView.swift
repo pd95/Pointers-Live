@@ -25,6 +25,7 @@ struct CategoryView: View {
                     } label: {
                         ItemView(item: item)
                     }
+                    .buttonStyle(.plain)
                 }
             }
         }
